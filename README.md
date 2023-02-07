@@ -1,7 +1,7 @@
 # Learn_Java
 
 Learn Basic Java syntax on Java Programming and Software Engineering, Duke University, Coursera.
-Using Java for learning Data Structures and Algorithms in University at Albany, State University of New York.
+Use Java for learning Data Structures and Algorithms in University at Albany, State University of New York.
 
 
 ### Data Structures and Algorithms Projects Diagrams
